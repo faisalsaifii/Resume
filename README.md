@@ -2,12 +2,11 @@
 
 # Mohammad Faisal
 
-**Location** : Delhi, India
-**Website** : https://faisalsaifii.github.io
-**Mail** : m.faisal.s@outlook.com
-**Phone Number** : +91 9871878063
-
-**Role** : Software Engineer (SE) or SDE
+- **Location** : Delhi, India
+- **Website** : https://faisalsaifii.github.io
+- **Mail** : m.faisal.s@outlook.com
+- **Phone Number** : +91 9871878063
+- **Role** : Software Engineer (SE) or SDE
 
 ## Technical Skills
 - C++ & C
@@ -26,14 +25,14 @@
 ## Education
 
 ### Bachelor of Technology in Information Technlogy
-**Insitution : Inderprastha Engineering College**
-CGPA: 7.62
-Dec 2020 - Present
+- **Insitution : Inderprastha Engineering College**
+- CGPA: 7.62
+- Dec 2020 - Present
 
 ### 10 + 2 (Science)
-**Insitution : Bharti Public School**
-Percentile: 77.66 in XII & 84.26 in X
-2008 - June 2020
+- **Insitution : Bharti Public School**
+- Percentile: 77.66 in XII & 84.26 in X
+- 2008 - June 2020
 
 ## Projects
 
@@ -52,14 +51,14 @@ Percentile: 77.66 in XII & 84.26 in X
 ## Work Experience
 
 ### Software Engineer Intern | Intech Circuits
-Aug 2022 - Sep 2022
-Set up various social pages of the Company Developed the Company Website
-Link: https://www.intechcircuits.com
+- Aug 2022 - Sep 2022
+- Set up various social pages of the Company Developed the Company Website
+- Link: https://www.intechcircuits.com
 
 ### Freelancer | Fiverr
-Oct 2021 - Present
-Profile Link: https://www.fiverr.com/faisalsaifii
-Working as a logo and PCB designer
+- Oct 2021 - Present
+- Profile Link: https://www.fiverr.com/faisalsaifii
+- Working as a logo and PCB designer
 
 ## Awards & Achievements
 
